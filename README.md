@@ -17,7 +17,7 @@ This pooled output from BERT is formed into a dataset of embeddings and labels w
 The above step is basically what forms the connection between the LSTM layer and BERT's output layer.
 Finally based on the categorization of the documents from the 10 classes defined within the preprocessed training data, the document's confidentiality is determined. 
 
-Since the BERT model exported is an tf estimator model and the LSTM model is a keras model, both the models are required to be exported inorder to enable deployment of this system.
+Since the BERT model exported is a tf estimator model and the LSTM model is a keras model, both the models are required to be exported inorder to enable deployment of this system.
 
 The exported fine-tuned BERT pre-trained model: https://drive.google.com/file/d/1yLJnjYNjranb5zAXXr_q883trF1aAxZx/view?usp=sharing
 The exported LSTM keras model: https://drive.google.com/file/d/1--kvG6PlwLSmD834J0Bw9Fsa7efK8FJk/view?usp=sharing
