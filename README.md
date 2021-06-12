@@ -20,6 +20,6 @@ Finally based on the categorization of the documents from the 10 classes defined
 Since the BERT model exported is a tf estimator model and the LSTM model is a keras model, both the models are required to be exported inorder to enable deployment of this system.
 
 The exported fine-tuned BERT pre-trained model:  
-https://drive.google.com/file/d/1yLJnjYNjranb5zAXXr_q883trF1aAxZx/view?usp=sharing  
+https://drive.google.com/file/d/1yz0qS99E8RVo0eIfC74k_I8BrmL-fP-9/view?usp=sharing  
 The exported LSTM keras model:  
-https://drive.google.com/file/d/1--kvG6PlwLSmD834J0Bw9Fsa7efK8FJk/view?usp=sharing
+https://drive.google.com/file/d/1G0M3jkg4g4CAPggXZOd_lOacso5ljv1q/view?usp=sharing
